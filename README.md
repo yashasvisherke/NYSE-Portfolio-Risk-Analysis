@@ -1,6 +1,6 @@
 # NYSE Portfolio Risk & Hedging Analysis
 
-### [View Project Report & Findings (Notion)](https://www.notion.so/NYSE-New-York-Stock-Exchange-Portfolio-Risk-Hedging-Analysis-2965bbca764380579192f1b0cd6c0136?source=copy_link)
+### [View Project Report & Findings (Notion)](https://worried-question-101.notion.site/NYSE-New-York-Stock-Exchange-Portfolio-Risk-Hedging-Analysis-2965bbca764380579192f1b0cd6c0136?source=copy_link)
 
 ## Project Summary
 
