@@ -30,7 +30,7 @@ This project analyzes over 850,000 rows of daily stock price data from the NYSE 
 * **Test 1 (The `EVHC` Trap):** Discovered that `EVHC` had a near-zero correlation to `AAPL` but was individually 2.5x riskier. This made the combined portfolio *more* volatile, proving that low correlation isn't enough.
 * **Test 2 (Successful Diversification):** Modeled a 50/50 portfolio of `AAPL` (1.65% risk) and `ED` (0.97% risk). The final portfolio risk was **1.02%**, proving that diversification with a *low-risk, uncorrelated* asset successfully reduced total risk.
 
-### 4. The "Free Lunch" (A True Hedge)
+### 4. The True Hedge
 * Scanned the entire 500x500 matrix to find the *best possible hedge* in the dataset.
 * Found `FTV` and `MCK` (corr: -0.18).
 * Proved that a 50/50 portfolio of these two assets (risk: 0.91%) was **safer than either stock individually** (1.33% and 1.52%), demonstrating the risk-subtracting power of a negative correlation.
