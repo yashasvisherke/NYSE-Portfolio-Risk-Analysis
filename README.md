@@ -4,6 +4,8 @@
 
 ### [Interactive Dashboard (Power BI)](https://app.powerbi.com/groups/me/reports/44842f68-e27f-4fde-bf86-17469bfa7635/06b0ddfb618da81f8b57?experience=power-bi)
 
+### [Dataset](https://www.kaggle.com/datasets/dgawlik/nyse)
+
 ## Project Summary
 
 This project analyzes over 850,000 rows of daily stock price data from the NYSE (2010-2016) to model and manage investment risk. The analysis moves from calculating individual stock volatility to building and testing multi-asset portfolios to find an optimal risk-reduction strategy.
